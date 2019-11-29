@@ -1,0 +1,2 @@
+- name: get the repo
+  git: repo=https://github.com/CrunchyData/postgres-operator.git dest=/root/crunchydata-postgres-operator version=v4.1.1
